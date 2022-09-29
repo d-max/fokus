@@ -1,3 +1,10 @@
 ids,labels,parents
-Strategie,Digitale Strategie,
-Wohnen und Bauen,Wohnen und Bauen,Strategie
+1-Strategie,Digitale Strategie,
+2-Wohnen-Bauen,Wohnen und Bauen,1-Strategie
+2-Kultur-Sport,Kultur und Sport,1-Strategie
+2-Bildung,Bildung,1-Strategie
+2-Modernes-Rathaus,Modernes Rathaus,1-Strategie
+2-Koordination,Koordination und Kooperation,1-Strategie
+2-Klimaschutz-Energie-Mobilität,"Klimaschutz, Energie und Mobilität",1-Strategie
+2-Beteiligung-Offene-Daten,Beteiligung und Offene Daten,1-Strategie
+2-Gesundheit,Gesundheit,1-Strategie
